@@ -7,6 +7,8 @@ Eu sou o Matheus Moreira e estudo e trabalho com
   * Node.js
   * React-Native
   * Mysql
+  * Sql
+  * Git
   
 Bom...
 No momento que estiver lendo isso provavelmente eu estarei estudando para aumentar essa listinha que no momento esta pequena, mas como todo bom dev,
