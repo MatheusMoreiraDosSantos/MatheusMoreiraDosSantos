@@ -12,7 +12,7 @@ Eu sou o Matheus Moreira e estudo e trabalho com
   
 Bom...
 No momento que estiver lendo isso provavelmente eu estarei estudando para aumentar essa listinha que no momento esta pequena, mas como todo bom dev,
-nós precisamos ter objeto, por isso eu trabalho com essa stack.
+nós precisamos ter objetivo, por isso eu trabalho com essa stack.
 Em 2018 comecei minha graduação em Analise e Desenvolvimento de Sistemas, mas nunca parei de fazer cursos na área e procurar aprender coisas por fora.
 Hoje trabalho na Cadmus soluções em TI como full stack developer.
 Atuar como programador me fez evoluir muito como profissional e como pessoa e me fez ver o quanto a tecnologia pode fazer a diferença na vida das pessoas.
